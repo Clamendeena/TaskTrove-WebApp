@@ -1,6 +1,8 @@
 # To-Do-List-WebApp
 
-OVERVIEW: This project is a basic implementation of a to-do list web application. It allows users to add and remove tasks dynamically through a user-friendly interface. The app is built using HTML for structure, CSS for styling and JavaScript for interactivity.
+OVERVIEW: 
+
+This project is a basic implementation of a to-do list web application. It allows users to add and remove tasks dynamically through a user-friendly interface. The app is built using HTML for structure, CSS for styling and JavaScript for interactivity.
 
 FEATURES:
 
